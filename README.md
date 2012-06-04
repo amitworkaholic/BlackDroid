@@ -1,0 +1,4 @@
+BlackDroid
+==========
+
+Collaborative mobile framework
